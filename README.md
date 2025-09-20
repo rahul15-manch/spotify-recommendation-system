@@ -25,14 +25,14 @@ A machine learning-based recommendation system that suggests songs based on user
 ```
 spotify-recommendation-system/
 │
-├── data/ # Dataset files
-├── notebooks/ # Jupyter notebooks for EDA and modeling
-├── app/ # Web app code (if using Streamlit)
-├── models/ # Saved ML models
-├── utils/ # Helper functions
+├── .gitignore
+├── spotify_recommendation_system.ipynb/ # Jupyter notebooks for EDA and modeling
+├── app.py 
+├── clustered_df.csv
+├── index.html
 ├── requirements.txt # Python dependencies
 ├── README.md # Project overview
-└── main.py # Main script to run the system
+
 ```
 
 ## 📊 Dataset
@@ -52,5 +52,14 @@ Run the app:
 ```
 -python app.py
 ```
+## 👨‍💻 Author
+
+**Rahul Manchanda**
+
+### 📬 Contact
+
+[![Email](https://img.shields.io/badge/Email-rahulmanchanda015%40gmail.com-red?logo=gmail&logoColor=white)](mailto:rahulmanchanda015@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul%20Manchanda-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-manchanda-3959b120a/)
+[![GitHub](https://img.shields.io/badge/GitHub-rahul15--manch-black?logo=github&logoColor=white)](https://github.com/rahul15-manch)
 
 
